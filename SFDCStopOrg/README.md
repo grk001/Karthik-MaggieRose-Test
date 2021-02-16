@@ -22,6 +22,9 @@ In Batch class, you can process records in batches to stay within limits.
 3. What Challenges did you face during implementation?
 
 When doing the Rest call, they are stored in String.  When try to desearlise json, Lis<String> to Map<String> error was showing. 
+ 
+ 
+ The Overall code coverage is less i.e 25%. Did not had chance to Increase coverage to 75%
 
 
 
